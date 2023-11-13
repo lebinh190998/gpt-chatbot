@@ -30,10 +30,6 @@ def construct_index(directory_path):
   return index
   
 def ask_bot(index, prompt):
-  # response = index.query(prompt, response_mode="compact")
-  # print ("Result: " + response.response + "\n")
-  # return response.response
   response = index.as_query_engine()
   res = response.query(prompt)
-  print(res)
   return res
