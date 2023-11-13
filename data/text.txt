@@ -1,0 +1,462 @@
+
+A quick overview of Lexer and our platform
+
+
+Great brands are built on great customer experiences, and Lexer is changing retail by unlocking one of your most vital business assets: customer data.
+
+
+With our CDXP (short for Customer Data and Experience Platform), Lexer transforms your disconnected data into actionable insights, and provides the workflow tools to automate and optimize customer experiences.
+In this article, we’ll explain who we are, what we offer, and introduce you to our core types of customer data and integration tools.
+
+
+Our aim is to empower your marketing and service teams to understand and engage with your customers, and drive loyalty and great brand experiences.
+
+
+Who we are
+
+
+At our core, Lexer is a Customer Data and Experience Platform (CDXP), and we help brands to transform their disconnected data into actionable insights, inspiring and enabling marketers to create the customer experiences that drive sales.
+
+
+Built for retail from the beginning, Lexer is the leader in helping brands become customer-centric.
+
+
+What we offer
+
+
+Lexer combines powerful data enrichment with the most intuitive tools, making understanding and delighting your customers at every interaction a reality today.
+
+
+We offer:
+
+  * Data: Collect, connect, and enrich customer data (securely).
+  * Tools: Analytics and workflow tools for insights and segmentation, acquisition and growth, customer service and sales, and measurement and analysis.
+  * Services: A talented team of retail experts providing strategy and roadmaps, analytics and reporting, project and program management.
+
+Data in Lexer
+
+
+Lexer is built around two core types of customer data: profiles and conversations.
+
+
+Customer profiles represent your customers and are made up of Attributes. An Attribute is any fact we know about that customer, such as their name, age, or products purchased. Segment, Compare, and Activate are Lexer tools that predominantly use customer profiles.
+
+
+Conversations represent any type of message you have sent to, or received, from a customer. Examples of conversations are emails, Facebook messages, and Tweets. Support, Schedule, Activity, Listen, Visualize, and Report are Lexer tools that interact with conversations. Conversations are often associated with a customer profile, allowing your to understand the person you're interacting with.
+
+
+Unlocking Lexer
+
+
+Our clients most commonly use Lexer to segment and understand their customer profiles, send campaign audiences to marketing platforms, and respond to customer inquiries on social channels. But there’s so much you can do in the Lexer Hub, and here’s just a snapshot:
+
+  * Segment and search your customer and prospect data.
+  * Compare segments to discover insights about your customers in seconds.
+  * Activate audience segments to social, email, and advertising channels.
+  * Survey customers to capture first party data with Forms.
+  * Respond to customers queries via email and social profiles.
+  * Measure your support team performance in Activity.
+  * Schedule your organic social content to Facebook, Twitter, and LinkedIn.
+  * Search and analyze public social, news, and blog conversations in Listen.
+  * Share live screens of your Listen dives in Visualize.
+  * Create PDF reports of your Listen dives in Report.
+
+Integrations in Lexer
+
+
+A key benefit of the Lexer CDXP is simplifying connections with the platforms in your digital ecosystem.
+
+
+Our library of integrations is always growing to ensure we can help you send and receive data when and where you need it. We’ve summarized the most popular integrations below.
+
+
+Email marketing
+
+
+MailChimp, Salesforce Marketing Cloud, Hubspot, Iterable, Klaviyo, Emarsys - import email engagement data to enrich customer profiles, and send your segments to these channels for marketing campaigns.
+
+
+Ecommerce
+
+
+Shopify, Magento, BigCommerce - import and update your customer profiles with ecommerce transaction data.
+
+
+Advertizing
+
+
+Facebook Ads, Google Ads, Twitter Ads - send audiences to these platforms for customer retargeting.
+
+
+Customer service
+
+
+Facebook, Twitter, Instagram, Email, LinkedIn - respond to posts, comments and messages from your customers on these channels.
+
+
+A Customer Data and Experience Platform
+
+
+At our core, Lexer is a Customer Data and Experience Platform (CDXP), helping you get to know and grow your customers.
+
+
+Through this quick overview of our platform, you’ve learned about who we are, what we offer, and how we use your data. This just barely scratches the surface though, and by exploring the rest of Learn you’ll discover how much more we have to offer!
+
+
+‍
+Activate - Lexer product that allows you to send audience segments to your integrated marketing and advertising channels.
+
+
+Activation - Segments that have been sent to your chosen marketing or advertising channel. Activations can be either ongoing (continues to update daily) or once- ff.
+
+
+Activity - Lexer product that allows you to monitor the performance of your customer service team operating in Respond.
+
+
+Amazon S3 - Also known as Amazon Simple Storage Service is an object storage service that allows users to store and protect any amount of data for a range of use cases, such as data lakes, websites, mobile applications, backup and restore, archive, enterprise applications, IoT devices, and big data analytics.
+
+
+API (Application Programming Interface) - Lexer offers a suite of APIs that allow your developers to push and pull your data from the Lexer CDXP, and supporting products and features. These APIs allow you to read and write profiles, transactions, and customer-event data. This information can then interoperate with other systems and platforms, and add new functionality to Lexer products.
+
+
+Attribute - Any fact we know about an individual customer or prospect. Attributes contain information about purchases, email engagement, web and app analytics, survey responses, and demographics.
+
+
+Audience Split - Feature of Activate that allows you to split your activated audience into 50/50 or 90/10 for experimentation.
+
+
+Case - A reporting concept in Activity for measuring conversation metrics.
+
+
+CDP - A customer data platform is a type of software which creates a persistent, unified customer database that is accessible to other systems. Data is pulled from multiple sources, cleaned and combined to create a single customer profile.
+
+
+CDXP - The Customer Data and Experience Platform. This is the product that Lexer offers and we transform disconnected data into actionable insights and provide the workflow tools to automate and optimize the customer experiences that drive sales.
+
+
+Channel - A view of your integrated data destinations in Activate.
+
+
+Classification - A feature of Respond and Listen that allows you to apply custom classifications (tags) to messages. Report on these classifications in Activity and Listen.
+
+
+Compare - Lexer product that allows you to compare segments and attributes for insights and reporting.
+
+
+Context - A feature of Respond that provides a detailed view of the conversation.
+
+
+Curate - A feature of Visualize to display a stream of curated images on a web page or digital screen.
+
+
+Data schema - A computing term used to describe data structures, i.e. a database table might have a schema of a name that is a string, an age that is an integer, and a gender that is a string. At Lexer, we map your data schema to ours in order to create attributes.
+
+
+Dataset - Lexer uses datasets to manage data received from integrated data sources, which have been transformed and organised into Lexer’s standard schema.
+
+
+Deep Dive - A feature of Respond and Listen that allows you to create a search for conversations.
+
+
+Deterministic - The simplest kind of identity resolution, called deterministic or rules-based record linkage, generates links based on the number of individual identifiers that match among the available data sets.
+
+
+‍Engage - Area of the Lexer Hub that contains Activate, Respond, Schedule, Contact, and Serve.
+
+
+Enrichment - When discussing CDP data, enrichment describes the process of enriching 1st-party data by unifying it with external data sources, i.e. 3rd-party data.
+
+
+Group - Permission controls for your team in Lexer. Users are placed into Groups to control access to products, access to integrations, and permissions to use specific functions. Groups are also used for reporting in Activity.
+
+
+History - A feature of Respond that provides a detailed view of the engagements between the customer and your brand. History includes public and private messages from the customer, as well as notes from your team.
+
+
+Hub - The Hub is how we refer to the Lexer platform and its associated products. For example, you log into the Hub to access the Segment Builder.
+
+
+Integration - Account or platform you have connected with your Lexer Hub.
+
+
+Listen - Lexer product that allows you to monitor social, forum and news content from across the web.
+
+
+Manage - Area of the Lexer Hub that contains Integrations, Team, and Settings.
+
+
+Matches - The number of posts, comments and messages that are returned for your search.
+
+
+Measure - Area of the Lexer Hub that contains Track, Activity, Listen, Visualize, and Report.
+
+
+Plug & Play - Refers to a fully self-service integration with Lexer that can be set up, connected, and ready to use without assistance from the Lexer team.
+
+
+Probabilistic - Probabilistic record linkage, sometimes called fuzzy matching, takes a different approach to identity resolution by taking into account a wider range of potential identifiers. For each pair of identifiers between records a model estimates a match or a non-match, and using these weights to calculate the probability that two given records refer to the same entity.
+
+
+‍Profile - Customer or prospect that exists in your CDP. Profiles are made of Attributes sourced from your customer data, social data, partner and 3rd party data.
+
+
+Quality Assurance (QA) - One of the stages of data onboarding at Lexer. Our Data Ops team will upload your data files, and then during QA ensure that no valid data has been rejected by the data pipeline/CDE, all jobs have been correctly implemented, and that any inconsistencies in your data are identified.
+
+
+‍Report - Lexer product that allows you to create PDF reports from your saved dives in Listen.
+
+
+Respond - Lexer product that allows you to respond to conversations on social, email and community platforms.
+
+
+Saved Dive - A saved search in Listen and Respond. Required for building Visualize Screens and Reports.
+
+
+Schedule - Lexer product that allows you to schedule your social content to Twitter, Facebook and LinkedIn.
+
+
+Secure File Upload - Feature of your Lexer Hub for securely uploading customer data to Lexer.
+
+
+Segment - Lexer product that allows you to create customer segments using any attributes in your CDP. Segments also represent a group of customers you have defined using a saved search of Attribute values.
+
+
+Segment Builder - A feature of Segment for searching customer profiles using Attributes.
+
+
+SFTP - Activation channel for exporting customer data from Lexer to your internal system. SFTP (SSH File Transfer Protocol) is a network protocol that provides file access, file transfer, and file management over any reliable data stream.
+
+
+Smart Search - Smart Search is Lexer's product and order segmentation tool that helps you create more specific and relational segments.
+
+
+Source Group - A feature of Respond and Listen used in Tier Filters, allowing you to search for content on a specific integrated channel.
+
+
+Sources - A view of where data has come from, typically referring to other platforms.
+
+
+Templates - A feature of Respond that allows you to save message templates to quickly insert into conversations.
+
+
+Tier Filter - A feature of Listen and Respond that allows you to search for conversations using up to 16 different properties, such as author name, matching terms, and source type.
+
+
+Understand - Area of the Lexer Hub that contains Segment, Compare, and Analyze.
+
+
+Unification - When discussing CDPs, unification describes the bringing together of two or more data sets into a single unified view of customer.
+
+
+User Acceptance Testing (UAT) - The final stage of the data onboarding process at Lexer, where users perform a functional test in their Hub to ensure that everything is working as expected.
+
+
+Visualize - Lexer product that allows you to create customizable live screens to display conversation data.
+What can I integrate?
+
+Check out out out list of integrations here.
+
+Connect your marketing, ecommerce, and social accounts with Lexer
+
+
+Integrations allow you to connect your various digital channels with Lexer and enables you to push and pull data in and out of Lexer securely. In addition to connecting your accounts, you can also find other useful tools here, such as API Tokens, Forms, and Secure File Upload. In this article we will cover all the functionality of integrations and provide links to more detailed guides.
+
+
+Integration categories
+
+
+The list of integrations is divided into two categories: the top section displays the integrations you currently have connected or enabled, while the list below displays those that are not yet connected. Clicking an integration will open a column that contains more options, including the specific accounts you have connected, and buttons for disconnecting or reconnecting.
+
+
+What types of integrations does Lexer support?
+
+  * Marketing - send segments to these channels for marketing campaigns, and import engagement data.
+  * Ecommerce - import and update your customer profiles with ecommerce transaction data.
+  * Service - respond to posts, comments, and messages from your customers on these channels.
+  * Other - a variety of other useful integrations and tools.
+
+Integrating an account
+
+
+Connecting your accounts requires that you have the necessary admin permissions on that account and that you have the Integrators permission given to one of the Groups you belong to in the Hub. Although each integration may have its own specific steps, the general flow is mostly the same for all.
+
+
+Let's take a look at a typical integration flow using Twitter as an example:
+
+ 1. Click on the Twitter tile in the list of integrations.
+ 2. Click the Integrate Twitter button.
+ 3. Follow the authentication steps in the window that opens.
+ 4. Specify the Lexer Groups who require access to this integration, and click Save.
+
+Reconnecting an account
+
+
+Your accounts may disconnect every now and then. This may happen when you change your password on that account, or if the person who connected the account with Lexer has their access removed. When an account becomes disconnected all users in your team that have the Integrator permission will receive an email notification with instructions to reconnect. To reconnect an account you will need to:
+
+ 1. Select the platform tile for the disconnected account.
+ 2. Click on the specific account which requires reconnecting (displayed in red).
+ 3. Click the reconnect button and re-enter your login details.
+
+Further Integrations
+
+
+Integrations are an essential tool for pushing and pulling data in and out of Lexer and by following the above steps you can easily connect your marketing, ecommerce, and social accounts. There are many Integrations that can connect with Lexer and can be found in the Integrations section of Learn, each with their own setup guides.
+
+
+‍
+
+
+‍
+A simple guide to access your account in Lexer
+
+
+Welcome! We've created this quick guide to help you manage your account in the Lexer Hub. We'll take you through setting up your user account for the first time and troubleshooting any log in issues you might have.
+
+
+Receive an invite to Lexer
+
+
+All users in Lexer are invited by someone in the team with Manager permissions. Once your profile has been added to the Team list, you will receive an email inviting your to activate your account. Activation links can be used for up to seven days after the invite is sent. If you are trying to activate your account after seven days, please contact Lexer Support and we can send you a new invitation.
+
+
+Create your password
+
+
+Open the link in your email invitation to set your password and create your account. Once completed, you will be directed to the Lexer Hub to log in.
+
+
+We're often asked for our password policy, so we've listed the requirements below:
+
+  * Minimum length is 8 characters.
+  * Must contain a lowercase character.
+  * Must contain an uppercase character.
+  * Must contain a number (0-9).
+  * Does not contain part of your email.
+  * Does not contain part of your first or last name.
+  * Does not match a list of common passwords.
+  * Is not one of your previous 3 passwords.
+
+Enable multi-factor authentication
+
+
+We take security very seriously. It is highly recommended that you use multi-factor authentication for your Lexer account. When you first log in, you may be prompted with the options to setup MFA using SMS or the Google Authenticator App. We've detailed these steps in our multi-factor authentication setup guide.
+
+
+Need to reset your password
+
+
+Follow the steps below to reset your password:
+
+ 1. Navigate to Lexer and click on Need help signing in and Forgot password?.
+ 2. Provide the email that is associated with your Lexer account and click Reset via Email.
+ 3. Open the Account Password Reset email in your inbox and click Reset Password.
+ 4. Create a new password for your account.
+
+Password reset links are active for 3 days, after which the link will expire and you will need to start the process again.
+
+
+Troubleshooting
+
+
+There you go! Your account is all set up. If you need help, just go through the steps above or please reach out to Lexer Support at support@lexer.io if you have any questions.
+
+
+‍
+How to add and manage users in your team
+
+
+At Lexer, a team is a group of users that belong to the same company.
+
+
+In this article, we’ll discuss team management and walkthrough some simple instructions for adding and managing users in your Lexer account. You will need to belong to a Group with "edit team" permissions to make these changes. If you are not part of a group with "edit team" permissions, but should be, please reach out to your Lexer Success Manager, or our friendly Support team on the chat below.
+
+
+Add a new user
+
+
+Navigate to Manage > Team and click on the + New User button in the bottom left corner of the screen. If this button does not appear for you, it means that you do not have the Manager permissions to perform this task. To create a new user you will need to provide their Email, First Name, Last Name, Timezone, and select one or more Groups.
+
+
+Edit user permissions
+
+
+User permissions are controlled using Groups in Lexer. Each user is assigned to one or more Groups, which can provide access to products, specific features, or allow users to perform particular functions i.e. Manage other users. To modify which Groups a user belongs to, simply find their account in the Team list and click on it. Select which Groups this user should belong to and save.
+
+
+Archive a user
+
+
+Navigate to Manage > Team and click on the user in the team list. Clicking the Archive button will archive this user in all accounts in Lexer. If you belong to multiple Lexer Hubs (i.e. different brands) this will revoke your access for all accounts. Archived users will need to be reactivated to access their account, which trigger an activation email with instructions to set their password again.
+
+
+Team, managed!
+
+
+There you go, you’re now a team management expert — the above steps are all you need to add new users, edit their permissions, and archive users. Remember, you can only make these changes if you are part of a group with "edit team" permissions. If you have any further questions, please don’t hesitate to contact your Lexer Success Manager, or reach out to our friendly Support team on the chat below.
+Manage user permissions, product access, and team reporting with Groups
+
+
+Permissions in Lexer are managed by Groups (users that belong to the same company), controlling the products you can use, your permission to respond or schedule content, and the customer data you have access to. Ensuring that your team is configured in the right Groups is essential for a great experience with Lexer and the following article will guide and the following article will guide you through the group permission management process.
+
+
+Group Creation
+
+
+Groups are created by Lexer based on your team structure, and are typically created when you first start working with Lexer. Your Success Manager will design your Groups based on your team structure and business requirements. Let's take a closer look at how Groups work in your Lexer Hub.
+
+
+What do Groups control?
+
+
+Groups control user access to all functions and features in Lexer, including:
+
+ 1. Access to Products and Features
+ 2. Access to Customer Profile and Attribute data in your CDP
+ 3. Enforce multi-factor authentication
+ 4. Manager permissions for your team
+ 5. Permission to manage segments, filters, classifications
+ 6. Permission to integrate accounts
+ 7. Permission to respond, schedule and approve responses
+
+Please note
+
+
+These permissions work in unison for some tasks, it depends what you're trying to achieve. For example if you want to email a customer via Segment, you might need permissions for: Segment, View PII and Contact Identity.
+
+
+The permissions you can access may vary from those in the table below.
+If you need any help, please reach out to Lexer Support using the chatbot in the bottom right of the page.
+
+
+The following table specifies each permission and how these impact the users access in Lexer products:
+
+Permission            Description                                                                                                                                                                                                                                                              
+Listen                Users can access Listen and run searches depending on the tier filters they have access to. If the permission is missing then they will see a placeholder when clicking on Listen in the nav bar.                                                                        
+Respond               Users can access Respond and run searches depending on their tier filters they have access to. If the permission is missing then they will see a placeholder when clicking on Respond in the nav bar.                                                                    
+Schedule              Users can access Schedule and see scheduled content for all integrated channels. If the permission is missing then they will see a placeholder when clicking on Schedule in the nav bar. Users require the publisher permission in order to schedule/publish new content.
+Segment               Users can access Segment and run searches depending on the attributes and segments they have access to. If the permission is missing, they will see a placeholder when clicking on Segment in the nav bar.                                                               
+Activate              Users can go into Activate and create activations based on the integrated channels, segments, and attributes they have access to. If the permission is missing then they will see a placeholder when clicking on Activate in the nav bar.                                
+Track                 Users can go into Track and create dashboards and metrics based on the dashboards, attributes, and segments they have access to. If the permission is missing then they will see a placeholder when clicking on Track in the nav bar.                                    
+Visualise             Users can go into Visualize and view/create dashboards. If the permission is missing then they will see a placeholder when clicking on Visualize in the nav bar.                                                                                                         
+Edit Team             Users can add/edit/delete team members. Users can view and edit API tokens in Integrations. Users can create API tokens in Integrations if they have this + the Integrator permission.                                                                                   
+Edit Classifications  Users can add/edit/delete/archive classifications.                                                                                                                                                                                                                       
+Integrator            Users can add/edit/remove integrations. Users will be sent integration email notifications (eg. disconnected).                                                                                                                                                           
+Activity              If users have this permission as well as the Respond permission they can view the Summary, Team, SLA, Cases, NPS tabs in Activity.                                                                                                                                       
+Security Logs         Users can view the Security tab in Activity.                                                                                                                                                                                                                             
+Access Reports        Users can view, create, edit, and delete reports in Measure > Report. If the permission is missing then they will see a placeholder when clicking on Report in the nav bar.                                                                                              
+Edit Forms            Users can view, create, edit, and publish forms in Manage > Forms.                                                                                                                                                                                                       
+Tier 1                Users can view tier 1 filters in Listen and Respond.                                                                                                                                                                                                                     
+Edit Tiers            Users can edit tier filters in Listen, Respond, and Settings.                                                                                                                                                                                                            
+Publisher             Users can schedule and publish content in Schedule.                                                                                                                                                                                                                      
+Responder             Users can publish replies to messages in Respond.                                                                                                                                                                                                                        
+Approver              Users can approve message replies for other team members in Respond.                                                                                                                                                                                                     
+Profiles from Respond Users can view the Profile tab on messages in Respond.                                                                                                                                                                                                                   
+Edit Segments         Users can create, edit, and delete segments.                                                                                                                                                                                                                             
+Individual Profiles   Users can view the Profiles tab in Segment.                                                                                                                                                                                                                              
+Activate as CSV       Users can create CSV activations in Activate.                                                                                                                                                                                                                            
+Contact Identity      Users can email customers from the Profile tab in Segment. Requires an integrated Contact and Respond Email account.                                                                                                                                                     
+Manage Datasets       Users can manage Datasets                                                                                                                                                                                                                                                
+View PII              Users can view PII in Dataset record payloads                                                                                                                                                                                                                            
+Access Serve          Users can log in to serve.lexer.io and access Serve. Note: users also require a Serve user profile to use Lexer Serve.                                                                                                                                                   
+Manage Serve          Users can view and edit Serve settings such as store locations, greeting flow, segments and attributes, and theming. If this permission is missing, then the user does not see Serve in the settings area of the hub.                                                    
+Two factor            User must authentication using multi-factor authentication such as SMS or OTP.                                                                                                                                                                                          
